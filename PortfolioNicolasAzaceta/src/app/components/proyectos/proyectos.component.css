@@ -2,13 +2,8 @@
     padding: 20px;
     border-radius: 3%;
     box-shadow: 3px 3px 3px 3px grey;
-    margin-top: 3%;
-    margin-left: 3%;
     width: 95%;
+    margin-left: 3%;
+    margin-top: 3%;
     background-color: #bfc1c5;
-
-}
-
-h2, h3{
-    display: inline;
 }
