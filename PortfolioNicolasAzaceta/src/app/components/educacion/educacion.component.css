@@ -8,6 +8,9 @@
     background-color: #bfc1c5;
 
 }
+h1{
+    filter: drop-shadow(1px 1px 1px black);
+}
 
 h2, h3{
     display: inline;

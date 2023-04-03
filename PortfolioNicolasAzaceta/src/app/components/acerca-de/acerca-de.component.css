@@ -4,6 +4,9 @@
 div{
     text-align: center;
 }
+h1{
+    filter: drop-shadow(1px 1px 1px black);
+}
 
 @media (min-width: 576px){
     #fotoperfil{
